@@ -3,4 +3,4 @@ h1  {color: azure;}
 p   {color: azure;}
 body {background-image: url("background.png");}
 
-.container { display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr;}
+.container { display: grid; align-items: center; grid-template-columns: auto 1fr 3fr;}
